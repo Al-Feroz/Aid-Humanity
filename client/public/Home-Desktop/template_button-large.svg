@@ -1,0 +1,10 @@
+<svg id="template_button-large" xmlns="http://www.w3.org/2000/svg" width="168" height="50" viewBox="0 0 168 50">
+  <g id="template_button-rounded-bg">
+    <rect id="Rectangle_3900" data-name="Rectangle 3900" width="168" height="50" rx="8" fill="#00ade9"/>
+  </g>
+  <text id="DONATE_NOW" data-name="DONATE NOW" transform="translate(0 18)" fill="#fff" font-size="12" font-family="Montserrat-Bold, Montserrat" font-weight="700" letter-spacing="0.015em"><tspan x="27" y="12">DONATE NOW</tspan></text>
+  <g id="arrow-right" transform="translate(135.13 21)">
+    <path id="Path_4820" data-name="Path 4820" d="M6.962.7l3.911,3.97L6.962,8.7" transform="translate(0.865 -0.702)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <line id="Line_158" data-name="Line 158" x1="11.74" transform="translate(0 4)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1.5"/>
+  </g>
+</svg>

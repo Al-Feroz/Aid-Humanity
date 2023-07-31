@@ -1,0 +1,33 @@
+.bgImage {
+    background-image:  url('../../public/Home-Desktop/logo_aid-humanity-icon.svg');
+    background-color: transparent;
+    background-repeat:  no-repeat;
+    background-clip:  padding-box;
+    mix-blend-mode: luminosity;
+    background-size: contain;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 68%;
+    opacity: 0.09;
+    height: auto;
+    width: auto;
+    pointer-events: none;
+}
+
+.footlist {
+    li {
+        margin: 10px auto;
+    }
+}
+
+.subscribe {
+    input {
+        width: 80%;
+    }
+
+    button{
+        width: 15%
+    }
+}
