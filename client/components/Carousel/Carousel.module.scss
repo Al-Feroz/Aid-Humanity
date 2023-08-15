@@ -1,0 +1,37 @@
+.main {
+    overflow: hidden;
+    display: flex;
+    width: 100%;
+    >section {
+        width: 100%;
+        display: none;
+    }
+    >:nth-child(1) {
+        display: block;
+    }
+}
+
+.carouselbg {
+    background-size: 100vw 100%;
+    background-repeat: no-repeat;
+}
+
+.carouselbg>:nth-child(1) {
+    background-image: linear-gradient(124deg, #102558, 60%, transparent);
+    padding: 0 5%;
+}
+
+.carIllustration {
+    background-image: url('../../public/Home-Desktop/Group 15343.svg');
+    background-clip: padding-box;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
+
+.carcard {
+    top: 85.2%;
+    :first-child {
+        margin-right: 2rem;
+    }
+}

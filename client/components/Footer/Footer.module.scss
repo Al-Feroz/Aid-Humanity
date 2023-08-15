@@ -1,19 +1,18 @@
 .bgImage {
-    background-image:  url('../../public/Home-Desktop/logo_aid-humanity-icon.svg');
+    background-image:  url('../../public/Home-Desktop/Union 7.svg');
     background-color: transparent;
     background-repeat:  no-repeat;
     background-clip:  padding-box;
-    mix-blend-mode: luminosity;
     background-size: contain;
+    pointer-events: none;
     position: absolute;
-    top: 0;
-    bottom: 0;
-    right: 0;
-    left: 68%;
-    opacity: 0.09;
+    opacity: 0.05;
     height: auto;
     width: auto;
-    pointer-events: none;
+    bottom: 0;
+    left: 68%;
+    right: 0;
+    top: 0;
 }
 
 .footlist {

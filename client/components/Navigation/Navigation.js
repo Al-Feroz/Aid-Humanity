@@ -5,12 +5,12 @@ import User from "@/public/Home-Desktop/icon_user-circle.svg";
 import { ChevronDown } from "react-bootstrap-icons";
 import Image from "next/image";
 import Link from "next/link";
-
 import React from "react";
+
 
 const Navigation = () => {
   return (
-    <div className="container mx-auto">
+    <div className="container mx-auto mt-5 mb-7">
       <section className="my-4 mx-1.5 flex justify-between">
         <div className="text-custom-gray-shade1">
           En <ChevronDown className="top-px relative inline" />
@@ -48,8 +48,8 @@ const Navigation = () => {
         <div className="w-4/6 flex items-center">
           <Image src={Brand} height="auto" width="auto" alt=""></Image>
           <Link
-            href="/ourstory"
             className="relative top-2 px-8 font-semibold hover:opacity-80"
+            href='/ourstory'
           >
             Our Story
           </Link>
@@ -86,7 +86,7 @@ const Navigation = () => {
           <button className="btn mx-3">
             <Image src={PackageBox} alt="" height={25} width={25}></Image>
           </button>
-          <button className="btn mx-3 rounded-md border-2 border-custom-blue px-6 py-2 text-custom-blue-shade1 font-semibold">
+          <button className="btn mx-3 rounded-md border-2 border-custom-blue-shade3 px-6 py-2 text-custom-blue-shade1 font-semibold">
             Donate Now
           </button>
         </div>

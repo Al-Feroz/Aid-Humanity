@@ -1,3 +1,5 @@
+const { basePath } = require('./next.config');
+
 /** @type {import('tailwindcss').Config} */
 module.exports = {
   content: [
@@ -8,7 +10,6 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        'custom-blue': '#00ade9',
         'custom-blue-shade1': '#006BA3',
         'custom-blue-shade2': '#102558',
         'custom-blue-shade3': '#00ade9',
