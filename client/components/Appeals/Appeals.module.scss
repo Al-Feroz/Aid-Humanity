@@ -1,0 +1,24 @@
+.cards {
+  justify-content: space-between;
+  display: flex;
+  > div {
+      justify-content: space-between;
+      display: none;
+      > div {
+          width: 30.5%;
+          margin: 0 auto;
+      p {
+        min-height: 125px;
+      }
+    }
+  }
+  >div:nth-child(1) {
+    display: flex;
+  }
+}
+
+.appealsButtons {
+    :nth-child(1){
+        background-color: #7C7C7C;
+    }
+}

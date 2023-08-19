@@ -15,6 +15,10 @@ module.exports = {
         'custom-blue-shade3': '#00ade9',
         'custom-gray-shade1': '#999999',
         'custom-gray-shade2': '#8892ac',
+        'custom-gray-shade3': '#7C7C7C',
+        'custom-gray-shade4': '#BDBDBD',
+        'custom-green-shade1': '#00c98b',
+        'custom-white-shade1': '#F1F1F1',
         'custom-yellow-shade1': '#ffc100',
       },
       backgroundImage: {
