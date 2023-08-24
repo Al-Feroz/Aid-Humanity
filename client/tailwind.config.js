@@ -21,6 +21,7 @@ module.exports = {
         "custom-gray-shade3": "#7C7C7C",
         "custom-gray-shade4": "#BDBDBD",
         "custom-gray-shade5": "#444445",
+        "custom-gray-shade6": "#E6E6E6",
         "custom-green-shade1": "#00c98b",
         "custom-white-shade1": "#F1F1F1",
         "custom-yellow-shade1": "#ffc100",
