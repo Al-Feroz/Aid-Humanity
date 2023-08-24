@@ -160,7 +160,7 @@ const Appeals = () => {
         </div>
       </div>
       <div>
-        <div className="appealsButtons text-center my-10">
+        <div className="SlideButtons text-center my-10">
           {btns.map((val, idx) => {
             return (
               <SlideButtons

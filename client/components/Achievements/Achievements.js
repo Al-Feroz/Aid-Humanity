@@ -129,7 +129,7 @@ const Achievements = () => {
             })}
           </div>
         </div>
-        <div className="appealsButtons text-center">
+        <div className="SlideButtons text-center">
           {btns.map((val, idx) => {
             return (
               <SlideButtons

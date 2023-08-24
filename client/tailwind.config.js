@@ -11,6 +11,7 @@ module.exports = {
     extend: {
       boxShadow: {
         "custom-shade": "0px 0px 15px rgb(09,09,09,0.3)",
+        "custom-shade2": "0px 5px 40px #0000001A",
       },
       colors: {
         "custom-blue-shade1": "#006BA3",
@@ -24,6 +25,7 @@ module.exports = {
         "custom-gray-shade6": "#E6E6E6",
         "custom-green-shade1": "#00c98b",
         "custom-white-shade1": "#F1F1F1",
+        "custom-white-shade2": "#ffffff",
         "custom-yellow-shade1": "#ffc100",
       },
       backgroundImage: {
