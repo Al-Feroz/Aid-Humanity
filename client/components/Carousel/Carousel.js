@@ -147,6 +147,7 @@ const Carousel = () => {
             <section
               className="pb-10 transition-all ease-out duration-700"
               id={`slide${val.id}`}
+              key={val.id}
             >
               <div
                 className={`${Styles.carouselbg} ${val.image} relative text-white`}

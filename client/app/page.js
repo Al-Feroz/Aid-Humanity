@@ -1,3 +1,4 @@
+import Achievements from '@/components/Achievements/Achievements'
 import ThirdSection from '@/components/Home_ThirdSection/ThirdSection'
 import Navigation from '@/components/Navigation/Navigation'
 import Carousel from '@/components/Carousel/Carousel'
@@ -11,6 +12,7 @@ export default function Home() {
       <Carousel />
       <Appeals />
       <ThirdSection />
+      <Achievements />
       <Footer />
     </main>
   )
