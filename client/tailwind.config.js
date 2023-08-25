@@ -26,6 +26,7 @@ module.exports = {
         "custom-green-shade1": "#00c98b",
         "custom-white-shade1": "#F1F1F1",
         "custom-white-shade2": "#ffffff",
+        "custom-white-shade3": "#f5f6f7",
         "custom-yellow-shade1": "#ffc100",
       },
       backgroundImage: {
