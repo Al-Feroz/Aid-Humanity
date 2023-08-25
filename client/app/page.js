@@ -7,6 +7,7 @@ import WaysToGive from '@/components/WaysToGive/WaysToGive'
 import Carousel from '@/components/Carousel/Carousel'
 import Appeals from '@/components/Appeals/Appeals'
 import Footer from '@/components/Footer/Footer'
+import FAQ from '@/components/FAQ/FAQ'
 
 export default function Home() {
   return (
@@ -19,6 +20,7 @@ export default function Home() {
       <UpcomingEvents />
       <LatestNews />
       <WaysToGive />
+      <FAQ />
       <Footer />
     </main>
   )
