@@ -12,6 +12,7 @@ module.exports = {
       boxShadow: {
         "custom-shade": "0px 0px 15px rgb(09,09,09,0.3)",
         "custom-shade2": "0px 5px 40px #0000001A",
+        "custom-shade3": "0px 5px 20px #00000008",
       },
       colors: {
         "custom-blue-shade1": "#006BA3",

@@ -3,6 +3,7 @@ import ThirdSection from '@/components/Home_ThirdSection/ThirdSection'
 import Achievements from '@/components/Achievements/Achievements'
 import Navigation from '@/components/Navigation/Navigation'
 import LatestNews from '@/components/LatestNews/LatestNews'
+import WaysToGive from '@/components/WaysToGive/WaysToGive'
 import Carousel from '@/components/Carousel/Carousel'
 import Appeals from '@/components/Appeals/Appeals'
 import Footer from '@/components/Footer/Footer'
@@ -17,6 +18,7 @@ export default function Home() {
       <Achievements />
       <UpcomingEvents />
       <LatestNews />
+      <WaysToGive />
       <Footer />
     </main>
   )
