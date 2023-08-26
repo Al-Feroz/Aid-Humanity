@@ -1,10 +1,10 @@
-import "./globals.scss";
+import "../globals.scss";
 import { Montserrat } from "next/font/google";
 
 const montserrat = Montserrat({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Aid Humanity | Home",
+  title: "Aid Homanity | Zakat Calculator",
   description: "International Charity Organization",
 };
 

@@ -18,6 +18,7 @@ module.exports = {
         "custom-blue-shade1": "#006BA3",
         "custom-blue-shade2": "#102558",
         "custom-blue-shade3": "#00ade9",
+        "custom-blue-shade4": "#e0f7ff",
         "custom-gray-shade1": "#999999",
         "custom-gray-shade2": "#8892ac",
         "custom-gray-shade3": "#7C7C7C",
